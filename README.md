@@ -1,18 +1,50 @@
-# 💫 About Me:
-Soy un Desarrollador Frontend con experiencia en React, TypeScript, JavaScript, CSS y HTML. Actualmente me encuentro realizando diferentes proyectos como Desarrollador Full Stack, ampliando constantemente mis conocimientos en diversas tecnologías y fortaleciendo mis habilidades técnicas. Mi objetivo es hacer una contribución significativa a un equipo innovador y colaborativo, aprendiendo de los demás mientras aporto mis propias habilidades y experiencias. Mi enfoque constante en el aprendizaje y la mejora me permite adaptarme rápidamente a nuevas tecnologías y desafíos.
+# Hey there, my name is Diego Reyes!👋
+I am a Frontend Developer with experience in React, TypeScript, JavaScript, CSS, and HTML. Currently, I am undertaking different projects as a Full Stack Developer, constantly expanding my knowledge in various technologies and strengthening my technical skills. My goal is to make a significant contribution to an innovative and collaborative team, learning from others while contributing my own skills and experiences. My constant focus on learning and improvement allows me to quickly adapt to new technologies and challenges.
 
+Visit my website: diegoworks.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-r-a94987186/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/92diegoworks/) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+!React
+!JavaScript
+!CSS3
+!HTML5
+!TypeScript
+!SASS
+!Bootstrap
+!TailwindCSS
+!Next JS
+!Redux
+!React Query
+!React Router
+!React Hook Form
+!Context-API
+!Vite
+!Babel
+!ESLint
+!NPM
+!PNPM
+!Git
+!GitHub
+!Express.js
+!NodeJS
+!MySQL
+!WordPress
+!Figma
+!Canva
+!Adobe Photoshop
+!Gimp
+!Blender
+!Notion
+!Portfolio
+!Arduino
+!Raspberry Pi
+!PowerShell
+!Windows Terminal
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diegoworks92&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=diegoworks92&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoworks92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoworks92 &theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=diegoworks92&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
